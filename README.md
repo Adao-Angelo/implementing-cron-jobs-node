@@ -5,6 +5,14 @@ This repository was created to implement ajendamnetos with node js
 ## get-tarted
     npm ci
 
-
 ## run server
     npm run dev
+
+
+# node-cron
+
+* => minity
+* => hora
+* => dia 
+* => mes 
+* => ano
