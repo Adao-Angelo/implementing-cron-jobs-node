@@ -9,10 +9,10 @@ This repository was created to implement ajendamnetos with node js
     npm run dev
 
 
-# node-cron
+### node-cron
 
-* => minity
-* => hora
-* => dia 
-* => mes 
-* => ano
+* => minute
+* => hour 
+* => day
+* => month
+* => year
